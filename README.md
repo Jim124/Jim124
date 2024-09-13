@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jim124
-- 👀 I’m interested in react,javascript,typescript,java.
+- 👀 I’m interested in react, javascript, typescript, java, and go.
 - 🌱 I’m currently learning nextjs,GraphQL
 - 📫 fengpingan065@gmail.com
 
